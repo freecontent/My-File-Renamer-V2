@@ -64,4 +64,4 @@ Please short your file name and try again!"""
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** Temp
+**👨‍💻 Developer:** [Temp](https://t.me/temp_demo)
